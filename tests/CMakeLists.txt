@@ -1,0 +1,2 @@
+add_subdirectory(adding_data)
+add_subdirectory(getting_data)
